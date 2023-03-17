@@ -1,11 +1,12 @@
 #include <stdio.h>
 /**
-* main -Print a line of code using puts
-* return: 0 (success)
-*/
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
+char Mystr[] = "\"Programming is like building a multilingual puzzle";
+puts(Mystr);
 return (0);
 }
-
