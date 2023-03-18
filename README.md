@@ -1,1 +1,1 @@
-This is a repository on C programming
+Life of a programmer
